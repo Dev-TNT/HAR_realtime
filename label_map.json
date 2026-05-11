@@ -1,0 +1,9 @@
+{
+  "standing": 0,
+  "sitting": 1,
+  "waving": 2,
+  "clapping": 3,
+  "drinking": 4,
+  "swat": 5,
+  "Tpose": 6
+}
